@@ -1,10 +1,10 @@
 
 <div id="header" align="center">
-  <h1>Hi there 👋</h1>
+  <h1>Hi there 👋
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100"/>
-  <img src="https://komarev.com/ghpvc/?username=Elena-1405&style=plastic&color=grey" alt=""/>
+    </h1>
 </div>
-
+<img src="https://komarev.com/ghpvc/?username=Elena-1405&style=plastic&color=grey" alt=""/>
 
 
 <!-- 
