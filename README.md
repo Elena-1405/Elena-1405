@@ -8,7 +8,7 @@
 
 ### :woman_technologist: About Me :
 
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am a Frontend Developer.
+- :computer: I am a Frontend Developer.
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -22,3 +22,5 @@
 <a href="https://t.me/Elena_Petrova_S">
     <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=plastic" alt="Telegram Badge"/>
   </a>
+  ---
+  ### :hammer_and_wrench: Languages and Tools :
