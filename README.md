@@ -1,6 +1,5 @@
-
+<h1 align="center">Hi there 👋
 <div id="header" align="center">
-  <h1>Hi there 👋
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100"/>
     </h1>
 </div>
