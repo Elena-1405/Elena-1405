@@ -5,10 +5,10 @@
 - 📫 How to reach me:
 
 <a href="https://t.me/Elena_Petrova_S">
-    <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
+    <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=plastic" alt="Telegram Badge"/>
   </a>
 
-<img src="https://komarev.com/ghpvc/?username=Elena-1405&style=flat-square&color=grey" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=Elena-1405&style=plastic&color=grey" alt=""/>
 <!--
 **Elena-1405/Elena-1405** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
