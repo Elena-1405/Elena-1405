@@ -1,10 +1,10 @@
-<h1 align="center">Hi there 👋
+<h1 align="center">Hi there 👋 </h1>
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100"/>
-    </h1>
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100"/> 
 </div>
+<div>
 <img src="https://komarev.com/ghpvc/?username=Elena-1405&style=plastic&color=grey" alt=""/>
-
+</div>
 
 <!-- 
 ### :woman_technologist: About Me :
