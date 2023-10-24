@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
   </a>
 
-  <img src="https:https://github.com/Elena-1405/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+  <img src="https://github.com/Elena-1405/?username=your-github-username&style=flat-square&color=blue" alt=""/>
 
 <!--
 **Elena-1405/Elena-1405** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
