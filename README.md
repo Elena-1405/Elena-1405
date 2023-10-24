@@ -5,7 +5,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=Elena-1405&style=plastic&color=grey" alt=""/>
 
-
+/*
 ### :woman_technologist: About Me :
 
 - :computer: I am a Frontend Developer.
@@ -14,11 +14,8 @@
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-- 📫 How to reach me:
-<a href="https://t.me/Elena_Petrova_S">
+- 📫 How to reach me:<a href="https://t.me/Elena_Petrova_S">
     <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=plastic" alt="Telegram Badge"/>
   </a>
   
@@ -40,4 +37,4 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-</div>
+</div> */
