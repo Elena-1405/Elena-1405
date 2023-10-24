@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
   </a>
 
- ![](https://komarev.com/ghpvc/?username=Elena-1405&color=green)
+ https://komarev.com/ghpvc/?username=Elena-1405&color=green
 
 <!--
 **Elena-1405/Elena-1405** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
