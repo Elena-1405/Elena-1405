@@ -1,9 +1,9 @@
-<div>
+<div align="center>
 <h1 align='center'>Hi there 👋 </h1>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100"/> 
 </div>
-<div id='counter' align="center>
+<div id='counter' >
 <img src="https://komarev.com/ghpvc/?username=Elena-1405&style=plastic&color=grey" alt=""/>
 </div>
 </div>
