@@ -1,7 +1,8 @@
 <div align='center'>
-<h1 align='center'>Hi there 👋 </h1>
+
 <div>
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100"/> 
+  <h1 align='center'>Hi there 👋 </h1>
 </div>
 <div id='counter' >
 <img src="https://komarev.com/ghpvc/?username=Elena-1405&style=plastic&color=grey" alt=""/>
