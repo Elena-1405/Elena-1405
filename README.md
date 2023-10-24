@@ -5,7 +5,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=Elena-1405&style=plastic&color=grey" alt=""/>
 
-/*
+<! -- 
 ### :woman_technologist: About Me :
 
 - :computer: I am a Frontend Developer.
@@ -37,4 +37,5 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-</div> */
+</div> 
+-->
