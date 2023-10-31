@@ -11,15 +11,7 @@
 ### :woman_technologist: About Me :
 
 - :computer: I am a Frontend Developer.
-- 🔭 I’m currently looking for a job to contribute skills and to make life of users better.
-  
-  <! --
-  - 🌱 I’m currently learning ... 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- ⚡ Fun fact: ...
-  -- >
+- 🔭 I’m currently looking for a job to contribute my skills and to make life of users better.
 - 📫 How to reach me:<a href="https://t.me/Elena_Petrova_S">
     <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=plastic" alt="Telegram Badge"/>
   </a>
