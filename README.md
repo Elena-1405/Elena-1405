@@ -8,6 +8,8 @@
 </div>
 </div>
 
+<br>
+
 ### :woman_technologist: About Me :
 
 - :computer: I am a Frontend Developer.
