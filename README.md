@@ -18,7 +18,7 @@
     <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=plastic" alt="Telegram Badge"/>
   </a>
 
-
+<br>
   
 :hammer_and_wrench: Languages and Tools :
 
