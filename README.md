@@ -12,7 +12,7 @@
 
 ### :woman_technologist: About Me :
 
-- :computer: I am a Frontend Developer.
+- :computer: Frontend Developer.
 - 🔭 I’m currently looking for a job in a great team to contribute my skills and to make life of users better.
 - :seedling: Exploring Technical Documentation
 - :zap: In my free time, I watch educational videos on JS and React Development and train katas on Codewars
