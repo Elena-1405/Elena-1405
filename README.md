@@ -53,7 +53,7 @@ A web application for tracking visited cities with map integration and authentic
 - Personal travel history
 
 **Tech:** React, Context API, Supabase, Leaflet, Vite  
-🔗 Demo: (coming soon)  
+🔗 Demo: worldwiseme.netlify.app 
 📂 Repo: (coming soon) 
 
 ---
