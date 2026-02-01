@@ -33,7 +33,7 @@ Currently, I'm actively looking for a remote frontend position and continuously 
 
 ## 🛠 Tech Stack
 
-- **Frontend:** React, JavaScript, TypeScript, HTML, CSS
+- **Frontend:** React, Next, JavaScript, TypeScript, HTML, CSS
 - **State Management:** Context API, Redux
 - **Backend / Auth:** Supabase, REST API
 - **Tools:** Git, GitHub, Vite, Netlify
