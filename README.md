@@ -54,7 +54,8 @@ A web application for tracking visited cities with map integration and authentic
 
 **Tech:** React, Context API, Supabase, Leaflet, Vite  
 🔗 Demo: worldwiseme.netlify.app 
-📂 Repo: (coming soon) 
+📋 Info for access: e-mail: test1@test.com, password: test1
+📂 Repo: https://github.com/Elena-1405/WorldWise.git
 
 ---
 
