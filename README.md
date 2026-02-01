@@ -1,7 +1,7 @@
 <div align='center'>
-<h1 align='center' color='navy-blue'># Hi, I'm Elena 👋
+<h1 align='center' color='navy-blue'># Hi, I'm Elena 👋</h1>
 
-Frontend Developer | React | TypeScript | JavaScript </h1>
+<h3>Frontend Developer | React | TypeScript | JavaScript</h3>
 <div>
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100"/> 
 </div>
