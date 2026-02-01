@@ -9,6 +9,88 @@
 </div>
 
 <br>
+# Hi, I'm Elena 👋
+
+Frontend Developer | React | TypeScript | JavaScript
+
+---
+
+## 👩‍💻 About Me
+
+I'm a frontend developer focused on building modern, user-friendly web applications.
+
+I have experience working with:
+- React & Hooks
+- Context API & Redux
+- TypeScript
+- REST APIs
+- Authentication (Supabase)
+- Git & GitHub
+
+Currently, I'm actively looking for a remote frontend position and continuously improving my skills through real projects.
+
+---
+
+## 🛠 Tech Stack
+
+- **Frontend:** React, JavaScript, TypeScript, HTML, CSS
+- **State Management:** Context API, Redux
+- **Backend / Auth:** Supabase, REST API
+- **Tools:** Git, GitHub, Vite, Netlify
+- **Other:** SQL (basic)
+
+---
+
+## 🚀 Featured Projects
+
+### 🌍 WorldWise — Travel Tracker App
+A web application for tracking visited cities with map integration and authentication.
+
+**Features:**
+- User authentication (Supabase)
+- Interactive map (Leaflet)
+- Add / edit cities
+- Personal travel history
+
+**Tech:** React, Context API, Supabase, Leaflet, Vite  
+🔗 Demo: (coming soon)  
+📂 Repo: (link)
+
+---
+
+### 📋 Kanban Board
+Task management application with drag-and-drop functionality.
+
+**Tech:** React, TypeScript, API  
+📂 Repo: (link)
+
+---
+
+### 📊 React + TypeScript API Project
+Application working with external APIs and dynamic data.
+
+**Tech:** React, TypeScript, REST API  
+📂 Repo: (link)
+
+---
+
+## 📈 What I'm Working On Now
+
+- Deepening knowledge of Redux
+- Improving project architecture
+- Preparing production-ready projects
+- Job searching
+
+---
+
+## 📫 Contact Me
+
+- GitHub: https://github.com/Elena-1405
+- Email: your_email_here
+
+---
+
+⭐ Feel free to explore my repositories!
 
 ### :woman_technologist: About Me :
 
