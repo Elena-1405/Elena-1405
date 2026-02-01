@@ -1,5 +1,7 @@
 <div align='center'>
-<h1 align='center' color='navy-blue'>Hi there 👋 </h1>
+<h1 align='center' color='navy-blue'># Hi, I'm Elena 👋
+
+Frontend Developer | React | TypeScript | JavaScript </h1>
 <div>
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100"/> 
 </div>
@@ -9,9 +11,7 @@
 </div>
 
 <br>
-# Hi, I'm Elena 👋
 
-Frontend Developer | React | TypeScript | JavaScript
 
 ---
 
