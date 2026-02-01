@@ -54,7 +54,7 @@ A web application for tracking visited cities with map integration and authentic
 
 **Tech:** React, Context API, Supabase, Leaflet, Vite  
 🔗 Demo: (coming soon)  
-📂 Repo: (link)
+📂 Repo: (coming soon) 
 
 ---
 
@@ -62,7 +62,7 @@ A web application for tracking visited cities with map integration and authentic
 Task management application with drag-and-drop functionality.
 
 **Tech:** React, TypeScript, API  
-📂 Repo: (link)
+📂 Repo: (coming soon) 
 
 ---
 
@@ -70,7 +70,7 @@ Task management application with drag-and-drop functionality.
 Application working with external APIs and dynamic data.
 
 **Tech:** React, TypeScript, REST API  
-📂 Repo: (link)
+📂 Repo: (coming soon) 
 
 ---
 
@@ -86,21 +86,11 @@ Application working with external APIs and dynamic data.
 ## 📫 Contact Me
 
 - GitHub: https://github.com/Elena-1405
-- Email: your_email_here
+- Email: helenofspb@gmail.com
 
 ---
 
 ⭐ Feel free to explore my repositories!
-
-### :woman_technologist: About Me :
-
-- :computer: Frontend Developer.
-- 🔭 I’m currently looking for a job in a great team to contribute my skills and to make life of users better.
-- :seedling: Exploring Technical Documentation
-- :zap: In my free time, I watch educational videos on JS and React Development and train katas on Codewars
-- 📫 How to reach me:<a href="https://t.me/Elena_Petrova_S">
-    <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=plastic" alt="Telegram Badge"/>
-  </a>
 
 <br>
   
