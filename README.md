@@ -53,7 +53,10 @@ A web application for booking for the site visitors and booking management for t
 - Own DB (Supabase)
 - Booking management for authorized staff
 - Ability to book / edit / delete booking
-- Pagination
+- Single booking details
+- API Pre-fetching pagination
+- API-side sorting and filtering
+- React Reusable Components
 
 **Tech:** React, React Query, React Component, React Router, Supabase, Vite  
 🔗 **Demo:** [wild-oasis-me.netlify.app](https://wild-oasis-me.netlify.app)
