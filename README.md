@@ -72,15 +72,15 @@ A web application for rating.
 - Rating a course
 
 
-**Tech:** NextJS, Context API  
-🔗 **Demo:** [worldwiseme.netlify.app](https://worldwiseme.netlify.app)  
+**Tech:** NextJS, Context API, TS  
+🔗 **Demo:** [ratingcourses.netlify.app](https://ratingcourses.netlify.app)  
 📋 **Demo access:**  
 Email: test1@test.com  
 Password: test1  
-📂 **Repo:** [GitHub Repository](https://github.com/Elena-1405/WorldWise.git)
+📂 **Repo:** [GitHub Repository](https://github.com/Elena-1405/Rating-NextJS-TS)
+
 
 ---
-https://github.com/Elena-1405/Rating-NextJS-TS
 
 ### 🌍 WorldWise — Travel Tracker App
 A web application for tracking visited cities with map integration and authentication.
