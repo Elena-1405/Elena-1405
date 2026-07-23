@@ -62,6 +62,20 @@ Email: test1@test.com
 Password: test1  
 📂 **Repo:** [GitHub Repository](https://github.com/Elena-1405/Wild-Oasis)
 
+---
+### 🌍 React Pizza Delivery
+A web application for pizza delivery.
+
+**Features:**
+- Sending feedback
+- Filter and sort
+- Rating a course
+
+
+**Tech:**  
+🔗 **Demo:** [ratingcourses.netlify.app](https://fastreactpizza-delivery.netlify.app)  
+📂 **Repo:** [GitHub Repository](https://github.com/Elena-1405/Rating-NextJS-TS)
+
 
 ---
 ### 🌍 Courses Rating App (coming soon, legacy challenge)
