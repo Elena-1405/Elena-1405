@@ -59,7 +59,7 @@ A web application for booking for the site visitors and booking management for t
 📋 **Demo access:**  
 Email: test1@test.com  
 Password: test1  
-📂 **Repo:** [GitHub Repository](https://github.com/Elena-1405/WorldWise.git)
+📂 **Repo:** [GitHub Repository]([https://github.com/Elena-1405/WorldWise.git](https://github.com/Elena-1405/Wild-Oasis))
 
 ### 🌍 WorldWise — Travel Tracker App
 A web application for tracking visited cities with map integration and authentication.
