@@ -55,7 +55,7 @@ A web application for booking for the site visitors and booking management for t
 - Pagination
 
 **Tech:** React, React Query, React Component, React Router, Supabase, Vite  
-🔗 **Demo:** [worldwiseme.netlify.app](https://worldwiseme.netlify.app)  
+🔗 **Demo:** [wild-oasis-me.netlify.app](https://wild-oasis-me.netlify.app)  
 📋 **Demo access:**  
 Email: test1@test.com  
 Password: test1  
@@ -76,14 +76,6 @@ A web application for tracking visited cities with map integration and authentic
 Email: test1@test.com  
 Password: test1  
 📂 **Repo:** [GitHub Repository](https://github.com/Elena-1405/WorldWise.git)
-
----
-
-### 📋 Kanban Board
-Task management application with drag-and-drop functionality.
-
-**Tech:** React, TypeScript, API  
-📂 Repo: (coming soon) 
 
 ---
 
