@@ -55,11 +55,32 @@ A web application for booking for the site visitors and booking management for t
 - Pagination
 
 **Tech:** React, React Query, React Component, React Router, Supabase, Vite  
-🔗 **Demo:** [wild-oasis-me.netlify.app](https://wild-oasis-me.netlify.app)  
+🔗 **Demo:** [wild-oasis-me.netlify.app](https://wild-oasis-me.netlify.app)
 📋 **Demo access:**  
 Email: test1@test.com  
 Password: test1  
 📂 **Repo:** [GitHub Repository](https://github.com/Elena-1405/Wild-Oasis)
+
+
+---
+### 🌍 Courses Rating App
+A web application for rating.
+
+**Features:**
+- Sending feedback
+- Filter and sort
+- Rating a course
+
+
+**Tech:** NextJS, Context API  
+🔗 **Demo:** [worldwiseme.netlify.app](https://worldwiseme.netlify.app)  
+📋 **Demo access:**  
+Email: test1@test.com  
+Password: test1  
+📂 **Repo:** [GitHub Repository](https://github.com/Elena-1405/WorldWise.git)
+
+---
+https://github.com/Elena-1405/Rating-NextJS-TS
 
 ### 🌍 WorldWise — Travel Tracker App
 A web application for tracking visited cities with map integration and authentication.
