@@ -63,7 +63,7 @@ Password: test1
 
 
 ---
-### 🌍 Courses Rating App
+### 🌍 Courses Rating App (coming soon, legacy challenge)
 A web application for rating.
 
 **Features:**
@@ -74,9 +74,6 @@ A web application for rating.
 
 **Tech:** NextJS, Context API, TS  
 🔗 **Demo:** [ratingcourses.netlify.app](https://ratingcourses.netlify.app)  
-📋 **Demo access:**  
-Email: test1@test.com  
-Password: test1  
 📂 **Repo:** [GitHub Repository](https://github.com/Elena-1405/Rating-NextJS-TS)
 
 
