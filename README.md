@@ -112,13 +112,6 @@ Password: test1
 
 ---
 
-### 📊 React + TypeScript API Project
-Application working with external APIs and dynamic data.
-
-**Tech:** React, TypeScript, REST API  
-📂 Repo: (coming soon) 
-
----
 
 ## 📈 What I'm Working On Now
 
