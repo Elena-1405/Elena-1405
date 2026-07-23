@@ -67,14 +67,14 @@ Password: test1
 A web application for pizza delivery.
 
 **Features:**
-- Sending feedback
-- Filter and sort
-- Rating a course
+- Creating orders
+- Getting pizzas to the cart
+- Choosing priorities
 
 
-**Tech:**  
-🔗 **Demo:** [ratingcourses.netlify.app](https://fastreactpizza-delivery.netlify.app)  
-📂 **Repo:** [GitHub Repository](https://github.com/Elena-1405/Rating-NextJS-TS)
+**Tech:** React, RTK, Tailwind 
+🔗 **Demo:** [fastreactpizza-delivery.netlify.app](https://fastreactpizza-delivery.netlify.app)  
+📂 **Repo:** [GitHub Repository](https://github.com/Elena-1405/Fast-React-Pizza)
 
 
 ---
@@ -94,7 +94,7 @@ A web application for rating.
 
 ---
 
-### 🌍 WorldWise — Travel Tracker App
+### 🌍 WorldWise — Travel Tracker App (refactoring)
 A web application for tracking visited cities with map integration and authentication.
 
 **Features:**
