@@ -34,7 +34,7 @@ Currently, I'm actively looking for a remote frontend position and continuously 
 ## 🛠 Tech Stack
 
 - **Frontend:** React, Next, JavaScript, TypeScript, HTML, CSS
-- **State Management:** Context API, Redux
+- **State Management:** Context API, Redux Toolkit, React Query
 - **Backend / Auth:** Supabase, REST API
 - **Tools:** Git, GitHub, Vite, Netlify
 - **Other:** SQL (basic)
@@ -42,6 +42,24 @@ Currently, I'm actively looking for a remote frontend position and continuously 
 ---
 
 ## 🚀 Featured Projects
+
+### 🏨 The Wild Oasis - app for hotel guests and staff
+
+A web application for booking for the site visitors and booking management for the staff.
+
+**Features:**
+- User authentication (Supabase) (in progress)
+- Own DB (Supabase)
+- Booking management for authorized staff
+- Ability to book / edit / delete booking
+- Pagination
+
+**Tech:** React, React Query, React Component, React Router, Supabase, Vite  
+🔗 **Demo:** [worldwiseme.netlify.app](https://worldwiseme.netlify.app)  
+📋 **Demo access:**  
+Email: test1@test.com  
+Password: test1  
+📂 **Repo:** [GitHub Repository](https://github.com/Elena-1405/WorldWise.git)
 
 ### 🌍 WorldWise — Travel Tracker App
 A web application for tracking visited cities with map integration and authentication.
