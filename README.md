@@ -22,6 +22,7 @@ I'm a frontend developer focused on building modern, user-friendly web applicati
 I have experience working with:
 - React & Hooks
 - Context API & Redux
+- React Query
 - TypeScript
 - REST APIs
 - Authentication (Supabase)
