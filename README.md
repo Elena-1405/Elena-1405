@@ -88,9 +88,10 @@ A web application for rating.
 - Sending feedback
 - Filter and sort
 - Rating a course
+- ARIA-accessibility
 
 
-**Tech:** NextJS, Context API, TS  
+**Tech:** NextJS, Context API, TS, Framer Motion  
 🔗 **Demo:** [ratingcourses.netlify.app](https://ratingcourses.netlify.app)  
 📂 **Repo:** [GitHub Repository](https://github.com/Elena-1405/Rating-NextJS-TS)
 
