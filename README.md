@@ -79,26 +79,9 @@ A web application for pizza delivery.
 🔗 **Demo:** [fastreactpizza-delivery.netlify.app](https://fastreactpizza-delivery.netlify.app)  
 📂 **Repo:** [GitHub Repository](https://github.com/Elena-1405/Fast-React-Pizza)
 
-
----
-### 🌍 Courses Rating App (coming soon, legacy challenge)
-A web application for rating.
-
-**Features:**
-- Sending feedback
-- Filter and sort
-- Rating a course
-- ARIA-accessibility
-
-
-**Tech:** NextJS, Context API, TS, Framer Motion  
-🔗 **Demo:** [ratingcourses.netlify.app](https://ratingcourses.netlify.app)  
-📂 **Repo:** [GitHub Repository](https://github.com/Elena-1405/Rating-NextJS-TS)
-
-
 ---
 
-### 🌍 WorldWise — Travel Tracker App (refactoring)
+### 🌍 WorldWise — Travel Tracker App (under refactoring)
 A web application for tracking visited cities with map integration and authentication.
 
 **Features:**
