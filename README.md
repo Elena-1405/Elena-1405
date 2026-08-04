@@ -93,11 +93,10 @@ A web application for tracking visited cities with map integration and authentic
 
 **Tech:** React, Context API, Supabase, Leaflet, Vite  
 🔗 **Demo:** 
-Please, run the server by the command: </> Bash npm run server
-Then clone or copy the project on your computer from the repo OR go to
+Please, clone or copy the project on your computer from the repo AND run the server by the command: </> Bash npm run server 
+AND/OR go to
 [worldwiseme.netlify.app](https://worldwiseme.netlify.app) 
 📋 **Demo access:** 
-
 Email: test1@test.com  
 Password: test1  
 📂 **Repo:** [GitHub Repository](https://github.com/Elena-1405/WorldWise.git)
