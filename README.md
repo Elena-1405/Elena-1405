@@ -81,7 +81,7 @@ A web application for pizza delivery.
 
 ---
 
-### 🌍 WorldWise — Travel Tracker App (under refactoring)
+### 🌍 WorldWise — Travel Tracker App
 A web application for tracking visited cities with map integration and authentication.
 
 **Features:**
@@ -91,8 +91,11 @@ A web application for tracking visited cities with map integration and authentic
 - Personal travel history
 
 **Tech:** React, Context API, Supabase, Leaflet, Vite  
-🔗 **Demo:** [worldwiseme.netlify.app](https://worldwiseme.netlify.app)  
-📋 **Demo access:**  
+🔗 **Demo:** 
+Please, clone or copy the project on your computer from the repo
+//([worldwiseme.netlify.app](https://worldwiseme.netlify.app))  
+📋 **Demo access:** 
+Please, run the server by the command: </> Bash npm run server
 Email: test1@test.com  
 Password: test1  
 📂 **Repo:** [GitHub Repository](https://github.com/Elena-1405/WorldWise.git)
@@ -104,6 +107,7 @@ Password: test1
 
 - Deepening knowledge of Redux
 - Improving project architecture
+- Working with API
 - Preparing production-ready projects
 - Job searching
 
