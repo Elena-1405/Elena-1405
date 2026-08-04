@@ -87,15 +87,17 @@ A web application for tracking visited cities with map integration and authentic
 **Features:**
 - User authentication (Supabase)
 - Interactive map (Leaflet)
+- Get geoposition (if allowed)
 - Add / edit cities
 - Personal travel history
 
 **Tech:** React, Context API, Supabase, Leaflet, Vite  
 🔗 **Demo:** 
-Please, clone or copy the project on your computer from the repo
-//([worldwiseme.netlify.app](https://worldwiseme.netlify.app))  
-📋 **Demo access:** 
 Please, run the server by the command: </> Bash npm run server
+Then clone or copy the project on your computer from the repo OR go to
+[worldwiseme.netlify.app](https://worldwiseme.netlify.app) 
+📋 **Demo access:** 
+
 Email: test1@test.com  
 Password: test1  
 📂 **Repo:** [GitHub Repository](https://github.com/Elena-1405/WorldWise.git)
