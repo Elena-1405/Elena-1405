@@ -95,7 +95,7 @@ A web application for tracking visited cities with map integration and authentic
 🔗 **Demo:** 
 Please, clone or copy the project on your computer from the repo AND run the server by the command: </> Bash npm run server 
 AND/OR go to
-[worldwiseme.netlify.app](https://worldwiseme.netlify.app) 
+[worldwiseme.netlify.app](https://worldwiseme.netlify.app) OR npm run dev
 📋 **Demo access:** 
 Email: test1@test.com  
 Password: test1  
